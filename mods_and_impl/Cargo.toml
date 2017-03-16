@@ -1,0 +1,6 @@
+[package]
+name = "mods_and_impl"
+version = "0.1.0"
+authors = ["denisjackman <moro1965>"]
+
+[dependencies]
